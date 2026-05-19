@@ -13,6 +13,7 @@ import pyttsx3
 import speech_recognition as sr
 import ollama
 import threading
+import time
 import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk

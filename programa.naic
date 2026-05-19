@@ -1,0 +1,5 @@
+# Prueba de traducción inteligente (Zero-Parser)
+escuchar.traducir(a: "ingles")
+
+# Prueba de visión del entorno por IA
+camara.analizar_y_describir(en: "español")
